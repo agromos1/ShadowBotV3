@@ -48,8 +48,8 @@ let handler = async (m, { conn, usedPrefix }) => {
   let info = `
 ╠═〘 *Informacion del Bot* 〙 ═
 ╠
-╠➥ [🤴🏻] Creador del Bot: *Bruno Sobrino*
-╠➥ [#️⃣] Numero del creador: *+1 (772) 238-6341*
+╠➥ [🤴🏻] Creador del Bot: *AgromosSP*
+╠➥ [#️⃣] Numero del creador: *+16178196212*
 ╠➥ [🌐] Navegador: *${conn.browserDescription[1]}*
 ╠➥ [✅] version: *${conn.browserDescription[2]}*
 ╠➥ [🎳] Prefijo: *${usedPrefix}*
